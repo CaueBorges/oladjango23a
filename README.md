@@ -6,3 +6,5 @@ Projeto de Django Itapira 2023 turma A
  - cd itapira
  - python manage.py startapp enqute
  - python manage.py runserver
+ - pip freeze > requirements.txt
+ - pip install -r requirements.txt
